@@ -1,0 +1,33 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgb(194, 194, 241) 100%);
+}
+
+.content {
+    padding: 1rem;
+    background-color: rgb(203,69,40);
+    background: linear-gradient(176deg, rgba(203,69,40,1) 0%, rgba(177,4,1,1) 35%, rgb(48, 0, 0) 100%);
+    width: 90%;
+    height: 90%;
+    box-shadow: 10px 5px 5px black;
+    
+}
+
+@media screen and (min-width: 992px){
+    .content{
+        min-width: 992px;
+        height: auto;
+        margin: 1rem auto; 
+        border-radius: 1rem;
+    }
+    
+}
+
+
+
+
+
