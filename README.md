@@ -1,3 +1,4 @@
 # Pokedex
 Arquivo destinado para exibição do projeto 😉 
-Segue o link da página: https://nathalyapereira.github.io/pokedex/
+Segue o link da página: https://pokedex-sepia-kappa.vercel.app
+
